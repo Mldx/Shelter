@@ -4,7 +4,7 @@
     url('Georgia/Georgia.eot?#iefix') format('embedded-opentype'),
     url('Georgia/Georgia.woff2') format('woff2'),
     url('Georgia/Georgia.woff') format('woff'),
-    url('Georgia/Georgia.ttf') format('truetype');
+    url('Georgia/GEORGIA.TTF') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,7 +26,7 @@
     font-family: 'Arial';
     src: local('Arial'), local('ArialMT'),
     url('Arial/Arial.eot?#iefix') format('embedded-opentype'),
-    url('Arial/Arial.woff2') format('woff2'),
+    url('Arial/ARIAL.woff2') format('woff2'),
     url('Arial/Arial.woff') format('woff'),
     url('Arial/Arial.ttf') format('truetype');
     font-weight: normal;
